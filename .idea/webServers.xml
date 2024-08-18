@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="147aa8fa-a692-473c-9f9c-97127aac42e6" name="10.11.0.111" url="http://10.11.0.111">
+        <fileTransfer rootFolder="/home/dima/Projects/Go/Server-Demo" accessType="SFTP" host="10.11.0.111" port="22" sshConfigId="4785e578-3400-4468-a588-07743653a957" sshConfig="dima@10.11.0.111:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" connections="10" passiveMode="true" shareSSLContext="true" isUseRsync="true" isUseSudo="true" />
+          </advancedOptions>
+        </fileTransfer>
+        <option name="numberOfConnections" value="10" />
+      </webServer>
+    </option>
+  </component>
+</project>

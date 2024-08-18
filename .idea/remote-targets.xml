@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="RemoteTargetsManager">
+    <targets>
+      <target name="dima@10.11.0.111:22" type="ssh/sftp" uuid="4410b036-7586-4763-868a-9e4ccf9328d1">
+        <config>
+          <option name="projectRootOnTarget" value="/home/dima/Projects/Go/Server-Demo" />
+          <option name="serverName" value="dima@10.11.0.111:22 password" />
+        </config>
+        <ContributedStateBase type="GoLanguageRuntime">
+          <config>
+            <option name="goPath" value="/home/dima/go" />
+            <option name="goRoot" value="/usr/bin/go" />
+            <option name="goVersion" value="go1.18.1 linux/amd64" />
+          </config>
+        </ContributedStateBase>
+      </target>
+    </targets>
+  </component>
+</project>

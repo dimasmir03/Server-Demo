@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="SourceSyncRemoteConfigurationsService"><![CDATA[{
+  "connections": [
+    {
+      "type": "ssh_configuration",
+      "name": "10.11.0.111",
+      "hostname": "10.11.0.111",
+      "username": "dima",
+      "remote_workspace_path": "/home/dima/Projects/Go/",
+      "preserve_timestamps": true
+    }
+  ],
+  "mainConnection": "10.11.0.111"
+}]]></component>
+</project>
